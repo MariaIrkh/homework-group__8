@@ -1,0 +1,66 @@
+
+
+.form-icon {
+    left: 300px;
+    position: relative;
+    bottom:55px;
+    box-sizing: border-box;
+    padding: 0;
+   }
+
+   
+   .guest {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #A49E9E;
+    width: 134px;
+    height: 41px;
+    background: #FFF;
+    margin-left: 37px;
+    background: #FFF; 
+    padding-left: 16px;
+    margin-bottom: 20px;
+}
+
+.booking-title {
+    margin-top: 50px;
+    margin-left: 41px;
+    margin-bottom: 20px;
+}
+
+.form-part {
+    height: 41px;
+    margin-bottom: 20px;
+}
+
+.guest-icon{
+    left: 140px;
+    position: relative;
+    bottom: 60px;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.booking-text {
+    color: #979090;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 41px;
+}
+
+.close-form {
+    margin-left: 165px;
+    margin-top: 7px;
+}
+
+.phone-icon {
+    left: 300px;
+    position: relative;
+    bottom:60px;
+    box-sizing: border-box;
+    padding: 0;
+   }
